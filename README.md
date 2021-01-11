@@ -1,6 +1,4 @@
-安装方式：pip3 install cgroup_parser 
-
-## Python解析cgroup（支持容器）
+# Python解析cgroup（支持容器）
 1. 获取CPU核数
 2. 获取CPU使用率
 3. 获取内存限量
