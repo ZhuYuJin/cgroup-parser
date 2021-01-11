@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="cgroup-parser", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="robertzhu",
     author_email="630268695@qq.com",
     description="cgroup parser for python",
